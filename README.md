@@ -13,3 +13,5 @@ This is because it needs to update a json file whenever something happens. Becau
 
 # Privacy Policy
 https://github.com/MikeDeveloperElectroDevelopment2021/bitcoinbot-documentation/blob/main/Privacy-Policy.md
+
+# Questions? Go to https://electro-media.ga
