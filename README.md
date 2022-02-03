@@ -10,3 +10,6 @@ Because I (Mike) have spent a lot of time on developing this code for this bot, 
 
 # 3. Why is the bot slow?
 This is because it needs to update a json file whenever something happens. Because the bot is sharded 4 times, it needs to quickly restart all the shards, and this can take some time. We are currently working developing something more efficient.
+
+# Privacy Policy
+https://github.com/MikeDeveloperElectroDevelopment2021/bitcoinbot-documentation/blob/main/Privacy-Policy.md
